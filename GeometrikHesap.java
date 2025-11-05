@@ -1,3 +1,10 @@
+ * Ad Soyad: [Hüseyin Enes Demir]
+ * Ogrenci No: [250541047]
+ * Tarih: [4.11.2025]
+ * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * 
+
+
 import java.util.Scanner;
 
 public class GeometrikHesap {
